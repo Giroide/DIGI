@@ -65,4 +65,3 @@ Argumenta en cinco líneas como máximo. El momento B representa la transformaci
 
 
 Dudas: En la actividad 6 no he visto que haya un momento perteneciente a la digitalización. 
-Quiero qeu el profe me corriga el 1.4
